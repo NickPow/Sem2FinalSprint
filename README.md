@@ -1,2 +1,2 @@
 # Sem2FinalSprint
-Portfolio site and video demo
+Portfolio site
