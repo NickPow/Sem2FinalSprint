@@ -1,2 +1,2 @@
 # Sem2FinalSprint
-E-Commerce React App
+Portfolio site and video demo
